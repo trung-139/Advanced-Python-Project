@@ -1,0 +1,270 @@
+{
+    "Math": {
+        "02/05/2023": {
+            "09:00-10:00": {
+                "class name": "MAT02.01",
+                "instructor": "Vuong",
+                "date": "02/05/2023",
+                "time from": "09:00",
+                "time to": "10:00",
+                "total time": 1.0,
+                "room number": "101"
+            }
+        },
+        "03/05/2023": {
+            "07:00-08:00": {
+                "class name": "MAT02.02",
+                "instructor": "Bao",
+                "date": "03/05/2023",
+                "time from": "07:00",
+                "time to": "08:00",
+                "total time": 1.0,
+                "room number": "102"
+            }
+        }
+    },
+    "DS": {
+        "02/10/2023": {
+            "09:00-11:00": {
+                "class name": "algebraic",
+                "instructor": "Quang",
+                "date": "02/10/2023",
+                "time from": "09:00",
+                "time to": "11:00",
+                "total time": 2.0,
+                "room number": "103"
+            },
+            "13:55-15:45": {
+                "class name": "intro to AI",
+                "instructor": "Anh",
+                "date": "20/04/2023",
+                "time from": "13:55",
+                "time to": "15:45",
+                "total time": 1.83,
+                "room number": "104"
+            }
+        },
+        "11/05/2023": {
+            "09:30-11:30": {
+                "class name": "calculus",
+                "instructor": "Khoi",
+                "date": "11/05/2023",
+                "time from": "09:30",
+                "time to": "11:30",
+                "total time": 2.0,
+                "room number": "102"
+            }
+        },
+        "30/06/2023": {
+            "06:00-07:30": {
+                "class name": "Machine learningII",
+                "instructor": "Quang",
+                "date": "30/06/2023",
+                "time from": "06:00",
+                "time to": "07:30",
+                "total time": 1.5,
+                "room number": "103"
+            }
+        },
+        "01/05/2023": {
+            "08:45-12:00": {
+                "class name": "Applied Statistics",
+                "instructor": "Son",
+                "date": "01/05/2023",
+                "time from": "08:45",
+                "time to": "12:00",
+                "total time": 3.25,
+                "room number": "204"
+            },
+            "14:00-16:45": {
+                "class name": "Statistics",
+                "instructor": "Phuc",
+                "date": "01/05/2023",
+                "time from": "14:00",
+                "time to": "16:45",
+                "total time": 2.75,
+                "room number": "Aud2"
+            }
+        },
+        "31/10/2023": {
+            "08:00-10:10": {
+                "class name": "physics",
+                "instructor": "Hai",
+                "date": "31/10/2023",
+                "time from": "08:00",
+                "time to": "10:10",
+                "total time": 2.17,
+                "room number": "Aud2"
+            }
+        }
+    },
+    "ICTea": {
+        "02/05/2023": {
+            "10:30-11:30": {
+                "class name": "linear algebra",
+                "instructor": "Quan",
+                "date": "02/05/2023",
+                "time from": "10:30",
+                "time to": "11:30",
+                "total time": 1.0,
+                "room number": "104"
+            }
+        },
+        "11/05/2023": {
+            "07:00-8:30": {
+                "class name": "Data base",
+                "instructor": "Ha",
+                "date": "11/05/2023",
+                "time from": "07:00",
+                "time to": "8:30",
+                "total time": 1.5,
+                "room number": "102"
+            }
+        },
+        "26/07/2023": {
+            "06:00-10:00": {
+                "class name": "advanced programming",
+                "instructor": "Son",
+                "date": "26/07/2023",
+                "time from": "06:00",
+                "time to": "10:00",
+                "total time": 4.0,
+                "room number": "202"
+            }
+        },
+        "20/04/2023": {
+            "09:25-12:00": {
+                "class name": "French",
+                "instructor": "Hoa",
+                "date": "20/04/2023",
+                "time from": "09:25",
+                "time to": "12:00",
+                "total time": 2.58,
+                "room number": "204"
+            }
+        },
+        "06/05/2023": {
+            "9:25-12:00": {
+                "class name": "French",
+                "instructor": "Anh",
+                "date": "06/05/2023",
+                "time from": "9:25",
+                "time to": "12:00",
+                "total time": 2.58,
+                "room number": "204"
+            }
+        }
+    },
+    "CS": {
+        "10/05/2023": {
+            "07:00-08:00": {
+                "class name": "ICT07",
+                "instructor": "Quang",
+                "date": "10/05/2023",
+                "time from": "07:00",
+                "time to": "08:00",
+                "total time": 1.0,
+                "room number": "101"
+            },
+            "08:00-10:00": {
+                "class name": "ICT010",
+                "instructor": "Hai",
+                "date": "10/05/2023",
+                "time from": "08:00",
+                "time to": "10:00",
+                "total time": 2.0,
+                "room number": "102"
+            }
+        }
+    },
+    "MST": {
+        "26/04/2023": {
+            "10:00-12:30": {
+                "class name": "Bio Informatic",
+                "instructor": "Huong",
+                "date": "26/04/2023",
+                "time from": "10:00",
+                "time to": "12:30",
+                "total time": 2.5,
+                "room number": "101"
+            },
+            "06:00-8:30": {
+                "class name": "Neuron System",
+                "instructor": "Doan",
+                "date": "26/04/2023",
+                "time from": "06:00",
+                "time to": "8:30",
+                "total time": 2.5,
+                "room number": "102"
+            }
+        }
+    },
+    "All": {
+        "20/06/2023": {
+            "09:00-10:30": {
+                "class name": "Retake calculus",
+                "instructor": "NULL",
+                "date": "20/06/2023",
+                "time from": "09:00",
+                "time to": "10:30",
+                "total time": 1.5,
+                "room number": "Aud2"
+            }
+        },
+        "26/05/2023": {
+            "09:00-10:45": {
+                "class name": "Retake generalchemistry 2",
+                "instructor": "NULL",
+                "date": "26/05/2023",
+                "time from": "09:00",
+                "time to": "10:45",
+                "total time": 1.75,
+                "room number": "Aud1"
+            }
+        },
+        "29/07/2023": {
+            "17:00-19:00": {
+                "class name": "Internship Career fare",
+                "instructor": "NULL",
+                "date": "29/07/2023",
+                "time from": "17:00",
+                "time to": "19:00",
+                "total time": 2.0,
+                "room number": "201"
+            }
+        },
+        "04/07/2023": {
+            "10:20-12:00": {
+                "class name": "Introduction to Informatics",
+                "instructor": "Hai",
+                "date": "04/07/2023",
+                "time from": "10:20",
+                "time to": "12:00",
+                "total time": 1.67,
+                "room number": "Aud2"
+            }
+        },
+        "29/04/2023": {
+            "09:00-10:30": {
+                "class name": "Retake general chemistry II",
+                "instructor": "Null",
+                "date": "29/04/2023",
+                "time from": "09:00",
+                "time to": "10:30",
+                "total time": 1.5,
+                "room number": "Aud2"
+            }
+        },
+        "21/06/2023": {
+            "06:00-08:00": {
+                "class name": "Phylosophy",
+                "instructor": "Hung",
+                "date": "21/06/2023",
+                "time from": "06:00",
+                "time to": "08:00",
+                "total time": 2.0,
+                "room number": "Aud2"
+            }
+        }
+    }
+}

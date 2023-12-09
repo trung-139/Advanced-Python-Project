@@ -1,0 +1,162 @@
+{
+    "101": {
+        "02/05/2023": {
+            "09:00-10:00": {
+                "class_id": "Math",
+                "class_name": "MAT02.01"
+            }
+        },
+        "10/05/2023": {
+            "07:00-08:00": {
+                "class_id": "CS",
+                "class_name": "ICT07"
+            }
+        },
+        "26/04/2023": {
+            "10:00-12:30": {
+                "class_id": "MST",
+                "class_name": "Bio Informatic"
+            }
+        }
+    },
+    "102": {
+        "03/05/2023": {
+            "07:00-08:00": {
+                "class_id": "Math",
+                "class_name": "MAT02.02"
+            }
+        },
+        "11/05/2023": {
+            "09:30-11:30": {
+                "class_id": "DS",
+                "class_name": "calculus"
+            },
+            "07:00-8:30": {
+                "class_id": "ICTea",
+                "class_name": "Data base"
+            }
+        },
+        "10/05/2023": {
+            "08:00-10:00": {
+                "class_id": "CS",
+                "class_name": "ICT010"
+            }
+        },
+        "26/04/2023": {
+            "06:00-8:30": {
+                "class_id": "MST",
+                "class_name": "Neuron System"
+            }
+        }
+    },
+    "103": {
+        "02/10/2023": {
+            "09:00-11:00": {
+                "class_id": "5",
+                "class_name": "algebraic"
+            }
+        },
+        "30/06/2023": {
+            "06:00-07:30": {
+                "class_id": "DS",
+                "class_name": "Machine learningII"
+            }
+        }
+    },
+    "104": {
+        "20/04/2023": {
+            "13:55-15:45": {
+                "class_id": "ict06",
+                "class_name": "intro to AI"
+            }
+        },
+        "02/05/2023": {
+            "10:30-11:30": {
+                "class_id": "ICTea",
+                "class_name": "linear algebra"
+            }
+        }
+    },
+    "105": {},
+    "201": {
+        "29/07/2023": {
+            "17:00-19:00": {
+                "class_id": "All",
+                "class_name": "Internship Career fare"
+            }
+        }
+    },
+    "202": {
+        "26/07/2023": {
+            "06:00-10:00": {
+                "class_id": "ICTea",
+                "class_name": "advanced programming"
+            }
+        }
+    },
+    "203": {},
+    "204": {
+        "01/05/2023": {
+            "08:45-12:00": {
+                "class_id": "DS",
+                "class_name": "Applied Statistics"
+            }
+        },
+        "06/05/2023": {
+            "9:25-12:00": {
+                "class_id": "ICTea",
+                "class_name": "French"
+            }
+        }
+    },
+    "205": {},
+    "lab1": {},
+    "lab2": {},
+    "lab3": {},
+    "Aud1": {
+        "26/05/2023": {
+            "09:00-10:45": {
+                "class_id": "All",
+                "class_name": "Retake generalchemistry 2"
+            }
+        }
+    },
+    "Aud2": {
+        "01/05/2023": {
+            "14:00-16:45": {
+                "class_id": "DS",
+                "class_name": "Statistics"
+            }
+        },
+        "20/06/2023": {
+            "09:00-10:30": {
+                "class_id": "All",
+                "class_name": "Retake calculus"
+            }
+        },
+        "04/07/2023": {
+            "10:20-12:00": {
+                "class_id": "All",
+                "class_name": "Introduction to Informatics"
+            }
+        },
+        "29/04/2023": {
+            "09:00-10:30": {
+                "class_id": "All",
+                "class_name": "Retake general chemistry II"
+            }
+        },
+        "21/06/2023": {
+            "06:00-08:00": {
+                "class_id": "All",
+                "class_name": "Phylosophy"
+            }
+        },
+        "31/10/2023": {
+            "08:00-10:10": {
+                "class_id": "DS",
+                "class_name": "physics"
+            }
+        }
+    }
+}

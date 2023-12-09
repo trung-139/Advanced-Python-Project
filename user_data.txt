@@ -1,0 +1,7 @@
+admin1:123:a-123
+admin2:123:a-456
+BI12-351:testing:s-DS
+BI16-600:testing:s-CS
+BI16-601:testing:s-ICTea
+BI16-602:testing:s-Math
+BI16-603:testing:s-MST
